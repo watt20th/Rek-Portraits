@@ -1,0 +1,55 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Alaric I
+  rotate: false
+  xy: 4, 636
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ashoka
+  rotate: false
+  xy: 4, 268
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Enrico Dandolo
+  rotate: false
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Frederick
+  rotate: false
+  xy: 372, 636
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Fulk V
+  rotate: false
+  xy: 372, 372
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Pedro II
+  rotate: false
+  xy: 740, 740
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sitting Bull
+  rotate: false
+  xy: 268, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
